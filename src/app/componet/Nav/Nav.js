@@ -1,7 +1,7 @@
 import React from "react";
 import Nav_logo from "./Nav_logo";
 import Nav_navigator from "./Nav_navigator";
-import Nav_right_menu from "./nav_right_menu";
+import Nav_right_menu from "./Nav_right_menu";
 
 export default function Nav() {
   return (
