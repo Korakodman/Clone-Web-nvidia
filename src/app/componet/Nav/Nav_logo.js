@@ -6,7 +6,7 @@ export default function Nav_logo() {
       {" "}
       <div className="nav-logo ">
         <img
-          className=" w-[45px]"
+          className=" w-[45px] sm:left-[50%] lg:left-[13%] absolute"
           src="https://cdn.worldvectorlogo.com/logos/nvidia.svg"
         ></img>
       </div>
