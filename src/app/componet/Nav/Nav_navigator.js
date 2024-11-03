@@ -77,12 +77,12 @@ export default function Nav_navigator() {
       </nav>
 
       <button
-        className="text-2xl p-1 fixed top-0 left-4 z-50 lg:hidden"
+        className="text-4xl p-1 fixed top-0 left-4 z-50 lg:hidden"
         onClick={toggleShow}
       >
         ☰
       </button>
-      <VscSearch className="text-xl md:block lg:hidden left-20 fixed mt-1" />
+      <VscSearch className="text-3xl md:block lg:hidden left-20 fixed mt-1" />
 
       {isShow && (
         <div

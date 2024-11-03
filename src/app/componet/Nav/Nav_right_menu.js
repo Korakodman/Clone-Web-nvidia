@@ -14,7 +14,7 @@ export default function Nav_right_menu() {
         </div>
         <div className="nav-right-logo flex text-center mt-1 ml-3 ">
           <VscSearch className="text-xl md:hidden lg:block" />
-          <VscAccount className="ml-3 text-xl" />
+          <VscAccount className="ml-3 lg:text-xl md:text-3xl" />
         </div>
       </div>
     </div>
