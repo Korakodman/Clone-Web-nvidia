@@ -3,7 +3,7 @@ import React from "react";
 export default function Text_in_image_box1() {
   return (
     <div>
-      <div className="text-in-image-box1  h-[30rem] md:w-[45rem] box-border grid-flow-row md:mr-[20rem] ">
+      <div className="text-in-image-box1  h-[30rem] md:w-[45rem] box-border grid-flow-row md:mr-[0rem] ">
         <div className="header-text text-2xl h-10 text-white md:ml-[150px] sm:ml-[70px] ">
           Data Center
         </div>
